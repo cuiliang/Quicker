@@ -1,7 +1,7 @@
 ---
 name: Bug和问题
 about: 提交Quicker软件、网站或文档的相关问题
-title: "【BUG】问题摘要"
+title: 问题摘要
 labels: bug
 assignees: ''
 
